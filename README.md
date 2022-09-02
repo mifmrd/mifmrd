@@ -3,13 +3,13 @@
   <img src="https://media3.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif?cid=ecf05e47ad1kwhd4zaeeu1cpk7twka1z2sdluwp7u2dx8maw&rid=giphy.gif&ct=s" width="200"/>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/mifmrd" target="_blank">
+  <a href="https://www.linkedin.com/in/mifmrd" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/mifmrd" target="_blank">
+  <a href="https://t.me/mifmrd" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Telegram-success?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
   </a>
-  <a href="https://www.instagram.com/mifmrd" target="_blank">
+  <a href="https://www.instagram.com/mifmrd" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-blue?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
 </div>
